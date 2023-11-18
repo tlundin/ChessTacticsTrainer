@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/andengine-af3fb31b6b836309c8515dd4365fc03f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-7b84b8068a77d84d93774019b1115bca.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/GoogleAdMobAdsSdk-6.4.1-6b70ab17e4040702cb72c032b73c6e52.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

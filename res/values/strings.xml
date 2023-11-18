@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chess Tactics Challenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    
+    <string-array name="main_menu">
+        <item>Begin tactics</item>
+        <item>See my stats</item>
+        <item>Highscores</item>
+    </string-array>
+ 
+
+</resources>
